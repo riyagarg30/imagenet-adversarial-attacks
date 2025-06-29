@@ -1,4 +1,3 @@
-````markdown
 # 🔓 Jailbreaking Deep Models: Adversarial Pixel-wise and Patch Attacks on ImageNet Classifiers
 
 > **Authors:** Riya Garg, Kevin Mai, Pranav Bhatt  
@@ -50,7 +49,7 @@ See `report.pdf` for detailed analysis, visualizations, transfer performance on 
    ```bash
    git clone https://github.com/your-username/imagenet-adversarial-attacks.git
    cd imagenet-adversarial-attacks
-````
+
 
 2. Install required packages:
 
@@ -75,11 +74,3 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 ## 🙏 Acknowledgments
 
 We thank **Prof. Chinmay Hegde** and the **NYU HPC team** for their guidance and computational resources.
-
-```
-
-Let me know if you want:
-- A `requirements.txt` auto-generated
-- This converted into a PDF `README` for submission
-- A linkable citation/BibTeX block for academic use
-```
